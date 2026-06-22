@@ -1,0 +1,7 @@
+interface:
+  display_name: "System Prompt Engineer"
+  short_description: "Draft and refine deployable agent prompts"
+  default_prompt: "Use $system-prompt-engineer to revise this agent system prompt into a compact, testable deployable prompt."
+
+policy:
+  allow_implicit_invocation: true
